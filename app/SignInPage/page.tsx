@@ -10,7 +10,7 @@ const page = () => {
       
       <div className='w-full min-h-screen bg-pink-200'>
         <div className='min-h-screen flex justify-center items-center text-4xl '>
-          WELCOME PAGE deneme
+          SIGN IN PAGE
         </div>
       {/* <FriendsList/> */}
       </div>

@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 import { IntroNavbar, FriendsList } from '@/components'
 
 
@@ -10,7 +9,7 @@ const page = () => {
       
       <div className='w-full min-h-screen bg-pink-200'>
         <div className='min-h-screen flex justify-center items-center text-4xl '>
-          WELCOME PAGE deneme
+          ABOUT PAGE
         </div>
       {/* <FriendsList/> */}
       </div>
